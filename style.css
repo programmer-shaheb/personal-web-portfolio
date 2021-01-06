@@ -7,6 +7,7 @@
 
 .header {
   height: 100vh;
+  background-color: #f8f9fc;
 }
 
 .container {
@@ -107,7 +108,7 @@
   font-size: 30px;
 }
 
-#color-text {
+.color-text {
   color: #ec4b74;
 }
 
@@ -185,6 +186,7 @@
 .footer {
   height: 100vh;
   text-align: center;
+  background-color: #f8f9fc;
 }
 
 .footer-img {
@@ -192,7 +194,8 @@
   width: 906px;
   height: 225px;
   background-size: cover;
-  margin: 180px auto;
+  margin: 190px auto;
+  display: inline-block;
 }
 
 .footer .footer-img h1 {
